@@ -1,0 +1,22 @@
+{
+    "name": "moncasheasy/moncash-easy-sdk",
+    "description": "PHP SDK for using Moncash on web project",
+    "type": "library",
+    "keywords": ["moncasheasy", "moncash", "Digicel", "API", "php"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MoncashEasy\\SDK\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Schneider Chery",
+            "email": "schneiderchery7@gmail.com"
+        }
+    ],
+   "require": {
+       "php": ">=7.1",
+       "guzzlehttp/guzzle": "^6.3"
+    }
+}

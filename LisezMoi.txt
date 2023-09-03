@@ -1,0 +1,22 @@
+---------------------/ Campus Henry Christophe de Limonade /--------------------------
+                       Faculte des Sciences et de Genie
+                            departement informatique
+
+                                  Projet PHP 
+
+
+
+Les Membres du groupe Royal Pharma 
+Nom: Mathieu, St-Preux , Appoleon
+Prenom: Dally, Max Jeffly, Roodaline
+Niveau: L4
+
+Pour tous contacts 
+tel: +509 3257-9167
+
+
+Compte Admin initial:
+username : jun.101
+password : 1234
+
+le dossier public est l'entre principal du programme.
